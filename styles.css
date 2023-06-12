@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+
+p{
+	font-weight:bold;
+}
+.favorite-color{
+	color:hotpink;
+}
+
